@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>https://qrkuwait.com</loc>
+        <lastmod>2022-08-19T11:57:35+02:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://qrkuwait.com/</loc>
+        <lastmod>2022-08-19T11:57:33+02:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://qrkuwait.com/cart-checkout</loc>
+        <lastmod>2022-08-19T11:57:34+02:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://qrkuwait.com/login</loc>
+        <lastmod>2022-08-19T11:57:34+02:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://qrkuwait.com/new/restaurant/register</loc>
+        <lastmod>2022-08-19T11:57:34+02:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://qrkuwait.com/password/reset</loc>
+        <lastmod>2022-08-19T11:57:34+02:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+</urlset>
